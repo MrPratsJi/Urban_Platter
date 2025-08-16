@@ -42,5 +42,10 @@ named **Prata** which helps users to get real-time insights.
 - **Razorpay** – Payment Gateway Integration  
 
 ### Database
-- **MongoDB** – Scalable data storage  
+- **MongoDB** – Scalable data storage
+
+## Deployed App Link:
+
+- https://urban-platter.vercel.app/
+ 
 
